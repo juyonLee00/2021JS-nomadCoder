@@ -6,3 +6,5 @@
 [0. 환경세팅](https://www.notion.so/0-f58e6c40a5d3479a83b25c4d9c5f7451)
 <br>
 [1. Javascript 기본 이론](https://www.notion.so/JS-1-9a3102a1f8cb4802a77ba459ebda60aa)
+<br>
+[2. Javascript 기본 실습](https://www.notion.so/cool-dichondra-05c/JS-9a3102a1f8cb4802a77ba459ebda60aa)
